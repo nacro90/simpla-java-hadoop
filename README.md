@@ -1,12 +1,17 @@
 # Simpla Java Hadoop
 
-In this project, 5 different statistical method implemented via MapReduce
-technique using dockerized containers and Java Hadoop Client.
+In this project, 5 different statistical method implemented via **MapReduce**
+technique using **Docker** containers and **Java Hadoop Client**.
 
 ## Dataset
 
-In this project, 5 different statistical method implemented via MapReduce
-technique using dockerized containers and Java Hadoop Client.
+The dataset is a meteorology dataset. It has over 500 ground stations measuring
+pressure, temperature, humidity, wind direction and speed, dew point and
+precipitation, recorded every 6 min. The data have been collected by different
+meteorology stations that placed different places in France. The size of the
+dataset is about 1.8 GB. It is sampled to 200 MB to make local development
+possible with limited computational environment. Dataset is a CSV file and the
+fields are obtained by splitting the lines by commas.
 
 ## MapReduce Algorithms
 
