@@ -96,6 +96,13 @@ using the native web services of the libraries.
 
 ![GUI image](./asset/gui.png)
 
+Result of _Standard Deviation of the Temperatures of each Station_ job:
+
+| Station ID | Standard Deviation | Mean |
+| ---------- | ------------------ | ---- |
+
+![Result image](./asset/result.png)
+
 ![Web-HDFS image](./asset/webhdfs.png)
 
 ## Performance
